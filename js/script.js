@@ -125,4 +125,12 @@ setInterval(printQuote, 10000);
  * DO NOT CHANGE THE CODE BELOW!!
 ***/
 
+
+
 document.getElementById('load-quote').addEventListener("click", printQuote, false);
+
+
+
+
+
+
